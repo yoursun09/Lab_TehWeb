@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.box{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+}
+
+
